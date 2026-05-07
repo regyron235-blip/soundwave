@@ -1,0 +1,6 @@
+{
+  "name": "SoundWave",
+  "description": "A high-performance music search and discovery engine for Spotify and YouTube Music.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
